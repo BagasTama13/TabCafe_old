@@ -1,0 +1,47 @@
+
+body {
+    color: white;
+    background-image: url('wallpaper.jpg');
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100vh;
+    font-family: "Times New Roman", Times, serif;
+
+}
+/* Apply Times New Roman to headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif;
+    color: white; /* Text color */
+    text-shadow:
+      -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+/* Apply Times New Roman to specific elements */
+.navbar-brand, .navbar-nav .nav-link {
+    font-family: "Times New Roman", Times, serif;
+   
+}
+
+th {
+    color: white;
+    background-image: url('th.jpg');
+    background-size: cover;
+    color: white; /* Text color */
+    text-shadow:
+      -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
+
+td {
+    color: black;
+    color: white; /* Text color */
+    text-shadow:
+      -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+}
