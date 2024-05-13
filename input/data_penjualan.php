@@ -11,6 +11,10 @@
             <hr class="my-4">
         </div>
 
+        <div> 
+            <a href="export.php" target="_balnk" class="btn btn-success ">Export</a>
+        </div>
+
         <?php
         include 'koneksi.php';
 
@@ -20,6 +24,7 @@
         if ($resultPenjualan->num_rows > 0) {
             
             echo "<table class='table table-bordered bg-light text-center  '>
+            
                     <thead>
                         <tr class='bg-secondary'>
                             <th class='col-md-1' >ID</th>

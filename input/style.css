@@ -45,3 +45,9 @@ td {
       -1px 1px 0 #000,
       1px 1px 0 #000;
 }
+
+
+.menu {
+    width: 100px;
+    height: 200px;
+}

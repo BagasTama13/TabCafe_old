@@ -18,10 +18,7 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="input_data.php">Beli</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="input_barang.php">Input Barang</a>
+                    <a class="nav-link" href="input_data.php">Input Penjualan</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="data_penjualan.php">Data Penjualan</a>
